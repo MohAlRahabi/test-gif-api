@@ -5,8 +5,3 @@
 - set the port , endpoint and api key
 - nodemon start
 - Done !!🤞🤞
-
-## Admin User:
-
-- email: mhmd@gmail.com
-- password: password
